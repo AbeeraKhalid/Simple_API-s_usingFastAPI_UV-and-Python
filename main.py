@@ -18,10 +18,20 @@ side_hustles = [
     "App Development - Create mobile or web applications for businesses!",
     "Freelancing - Start offering your skills online!",
     "Dropshipping - Sell without handling inventory!",
+    "Self-Publishing – Write and sell books on Amazon Kindle Direct Publishing (KDP)",
+    "Voiceover Work – Offer voiceover services on platforms like Voices.com or Fiverr",
+    "Podcasting – Monetize via sponsorships, Patreon, or ads",
+    "Music Production – Sell beats on BeatStars or license music on Pond5",
     "Stock Market - Invest and watch your money grow!",
     "Affiliate Marketing - Earn by promoting products!",
     "Online Courses - Share your knowledge and earn!",
     "Print-on-Demand - Sell custom-designed products!",
+    "Chatbot Development – Build AI chatbots for businesses",
+    "SaaS Business – Develop & sell software as a service (subscription model)",
+    "Website Flipping – Improve & resell websites for profit",
+    "AI Automation Services – Use AI tools to automate workflows for clients",
+    
+
     
 ]
 
@@ -41,8 +51,12 @@ money_quotes = [
     "Money is a terrible master but an excellent servant. – P.T. Barnum",
     "You must gain control over your money or the lack of it will forever control you. – Dave Ramsey",
     "Opportunities don’t happen. You create them. – Chris Grosser",
+    "A penny saved is a penny earned.",
+    "Too many people spend money they haven’t earned to buy things they don’t want to impress people they don’t like.",
+    "An investment in knowledge pays the best interest.",
     "Don’t stay in bed unless you can make money in bed. – George Burns",
     "Money often costs too much. – Ralph Waldo Emerson",
+
 ]
 
 
